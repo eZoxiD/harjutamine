@@ -1,1 +1,2 @@
 Saad kasutada GitHubi oma programmeerimisprojektide haldamiseks, koodi versioonide jälgimiseks ja koostööks meeskonnaga. See on kasulik ka oma tööde portfoolio loomiseks ja avatud lähtekoodiga projektide uurimiseks või panustamiseks.
+ 
