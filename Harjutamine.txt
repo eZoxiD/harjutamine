@@ -1,3 +1,7 @@
 Saad kasutada GitHubi oma programmeerimisprojektide haldamiseks, koodi versioonide jälgimiseks ja koostööks meeskonnaga. See on kasulik ka oma tööde portfoolio loomiseks ja avatud lähtekoodiga projektide uurimiseks või panustamiseks.
- 
+ GitHub on platvorm koodi salvestamiseks ja projektides koostöö tegemiseks. See kasutab Giti versioonikontrollisüsteemi.
+Kes seda kasutab?
+Arendajad - koodiga töötamiseks.
+Meeskonnad – ühiseks arenguks.
+Avatud lähtekoodiga kogukond – avatud projektide loomiseks.
  
